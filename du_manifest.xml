@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="sub77/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_system_qcom" path="system/qcom" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_external_ant-wireless_ant_service" path="external/ant-wireless/ant/service" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_external_ant-wireless_ant_native" path="external/ant-wireless/ant/native" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_external_bson" path="external/bson" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_external_connectivity" path="external/connectivity" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="n7x-caf" />
+</manifest>
