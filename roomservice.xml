@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="sub77/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="twrp-7.1" />
+</manifest>
