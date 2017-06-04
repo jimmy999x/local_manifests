@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project path="device/motorola/falcon" name="sub77/android_device_falcon" remote="github" revision="ubp-5.1" />
+ <project path="kernel/motorola/msm8226" name="sub77/android_kernel_motorola_msm8226" remote="github" revision="ubp-5.1" />
+ <project path="vendor/motorola" name="sub77/proprietary_vendor_motorola" remote="github" revision="ubp-5.1" />
+ <project path="device/qcom/common" name="android_device_qcom_common" remote="cm" revision="cm-12.1" />
+ <project path="hardware/qcom/fm" name="android_hardware_qcom_fm" remote="cm" revision="cm-12.1" />
+</manifest>
